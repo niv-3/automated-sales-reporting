@@ -1,0 +1,1001 @@
+order_id,date,product,category,quantity,unit_price,customer
+10336,2026-04-01,Laptop Stand,Accessories,1,39.99,Customer 38
+10991,2026-04-01,Wireless Mouse,Electronics,1,29.99,Customer 113
+10836,2026-04-01,Laptop Stand,Accessories,2,39.99,Customer 217
+10852,2026-04-01,Wireless Mouse,Electronics,1,29.99,Customer 20
+10067,2026-04-01,Standing Desk,Furniture,4,449.99,Customer 68
+10469,2026-04-01,Standing Desk,Furniture,1,449.99,Customer 62
+10899,2026-04-01,Backpack,Accessories,1,69.99,Customer 221
+10040,2026-04-01,Backpack,Accessories,1,69.99,Customer 126
+10264,2026-04-01,Headphones,Electronics,1,79.99,Customer 77
+10737,2026-04-02,Wireless Mouse,Electronics,3,29.99,Customer 114
+10007,2026-04-02,Headphones,Electronics,2,79.99,Customer 41
+10385,2026-04-02,Laptop,Electronics,1,899.99,Customer 243
+10913,2026-04-02,Mechanical Keyboard,Electronics,3,89.99,Customer 7
+10033,2026-04-03,Backpack,Accessories,1,69.99,Customer 30
+10854,2026-04-03,Desk Lamp,Furniture,1,49.99,Customer 88
+10087,2026-04-03,Backpack,Accessories,1,69.99,Customer 142
+10624,2026-04-03,Laptop Stand,Accessories,1,39.99,Customer 93
+10082,2026-04-03,Wireless Mouse,Electronics,1,29.99,Customer 145
+10772,2026-04-03,Wireless Mouse,Electronics,1,29.99,Customer 57
+10909,2026-04-03,Desk Lamp,Furniture,1,49.99,Customer 75
+10256,2026-04-04,Backpack,Accessories,1,69.99,Customer 24
+10064,2026-04-04,Backpack,Accessories,3,69.99,Customer 238
+10208,2026-04-04,Headphones,Electronics,2,79.99,Customer 33
+10657,2026-04-05,Laptop Stand,Accessories,1,39.99,Customer 18
+10461,2026-04-05,Wireless Mouse,Electronics,1,29.99,Customer 214
+10954,2026-04-05,Backpack,Accessories,4,69.99,Customer 201
+10844,2026-04-05,Desk Lamp,Furniture,1,49.99,Customer 220
+10876,2026-04-05,Wireless Mouse,Electronics,1,29.99,Customer 4
+10475,2026-04-05,Headphones,Electronics,1,79.99,Customer 18
+10705,2026-04-05,Headphones,Electronics,1,79.99,Customer 179
+10473,2026-04-06,Backpack,Accessories,1,69.99,Customer 121
+10332,2026-04-06,Laptop Stand,Accessories,1,39.99,Customer 86
+10942,2026-04-06,Wireless Mouse,Electronics,4,29.99,Customer 51
+10552,2026-04-06,Desk Lamp,Furniture,1,49.99,Customer 101
+10652,2026-04-06,Laptop,Electronics,4,899.99,Customer 119
+10783,2026-04-06,Wireless Mouse,Electronics,2,29.99,Customer 166
+10297,2026-04-06,Headphones,Electronics,4,79.99,Customer 169
+10239,2026-04-06,Laptop Stand,Accessories,4,39.99,Customer 173
+10176,2026-04-07,Laptop Stand,Accessories,3,39.99,Customer 148
+10001,2026-04-07,Wireless Mouse,Electronics,2,29.99,Customer 63
+10506,2026-04-07,Wireless Mouse,Electronics,2,29.99,Customer 128
+10760,2026-04-07,Backpack,Accessories,3,69.99,Customer 119
+10005,2026-04-07,Laptop Stand,Accessories,1,39.99,Customer 184
+10499,2026-04-08,Mechanical Keyboard,Electronics,1,89.99,Customer 156
+10535,2026-04-08,Laptop,Electronics,1,899.99,Customer 243
+10191,2026-04-08,Office Chair,Furniture,1,229.99,Customer 84
+10170,2026-04-08,Laptop,Electronics,3,899.99,Customer 52
+10958,2026-04-08,Monitor,Electronics,2,249.99,Customer 200
+10371,2026-04-08,Headphones,Electronics,1,79.99,Customer 180
+10326,2026-04-09,Headphones,Electronics,1,79.99,Customer 56
+10656,2026-04-09,Wireless Mouse,Electronics,2,29.99,Customer 108
+10949,2026-04-09,Mechanical Keyboard,Electronics,1,89.99,Customer 158
+10984,2026-04-09,Laptop Stand,Accessories,1,39.99,Customer 82
+10579,2026-04-09,Monitor,Electronics,1,249.99,Customer 180
+10500,2026-04-09,Desk Lamp,Furniture,1,49.99,Customer 61
+10566,2026-04-10,Laptop,Electronics,1,899.99,Customer 86
+10608,2026-04-10,Mechanical Keyboard,Electronics,4,89.99,Customer 102
+10437,2026-04-10,Backpack,Accessories,1,69.99,Customer 225
+10610,2026-04-10,Headphones,Electronics,1,79.99,Customer 146
+10969,2026-04-10,Desk Lamp,Furniture,1,49.99,Customer 60
+10247,2026-04-10,Backpack,Accessories,1,69.99,Customer 81
+10420,2026-04-11,Mechanical Keyboard,Electronics,1,89.99,Customer 113
+10236,2026-04-11,Laptop Stand,Accessories,2,39.99,Customer 189
+10719,2026-04-12,Headphones,Electronics,3,79.99,Customer 176
+10014,2026-04-12,Wireless Mouse,Electronics,1,29.99,Customer 198
+10209,2026-04-12,Headphones,Electronics,4,79.99,Customer 142
+10119,2026-04-12,Headphones,Electronics,2,79.99,Customer 1
+10770,2026-04-12,Laptop Stand,Accessories,1,39.99,Customer 166
+10270,2026-04-12,Standing Desk,Furniture,1,449.99,Customer 122
+10094,2026-04-12,Headphones,Electronics,1,79.99,Customer 198
+10284,2026-04-12,Laptop,Electronics,1,899.99,Customer 15
+10478,2026-04-12,Mechanical Keyboard,Electronics,1,89.99,Customer 87
+10843,2026-04-12,Laptop,Electronics,1,899.99,Customer 201
+10667,2026-04-13,Desk Lamp,Furniture,4,49.99,Customer 242
+10072,2026-04-13,Laptop,Electronics,1,899.99,Customer 129
+10448,2026-04-14,Headphones,Electronics,1,79.99,Customer 224
+10850,2026-04-14,Mechanical Keyboard,Electronics,1,89.99,Customer 79
+10252,2026-04-14,Desk Lamp,Furniture,1,49.99,Customer 141
+10363,2026-04-14,Standing Desk,Furniture,3,449.99,Customer 154
+10676,2026-04-14,Monitor,Electronics,1,249.99,Customer 173
+10806,2026-04-14,Laptop Stand,Accessories,2,39.99,Customer 244
+10727,2026-04-14,Office Chair,Furniture,1,229.99,Customer 60
+10213,2026-04-14,Mechanical Keyboard,Electronics,1,89.99,Customer 221
+10885,2026-04-15,Monitor,Electronics,1,249.99,Customer 237
+10639,2026-04-15,Desk Lamp,Furniture,1,49.99,Customer 132
+10959,2026-04-15,Headphones,Electronics,2,79.99,Customer 121
+10973,2026-04-16,Office Chair,Furniture,1,229.99,Customer 151
+10824,2026-04-16,Monitor,Electronics,1,249.99,Customer 137
+10346,2026-04-16,Laptop,Electronics,4,899.99,Customer 217
+10583,2026-04-16,Desk Lamp,Furniture,2,49.99,Customer 133
+10828,2026-04-16,Standing Desk,Furniture,4,449.99,Customer 222
+10625,2026-04-16,Monitor,Electronics,1,249.99,Customer 120
+10418,2026-04-16,Mechanical Keyboard,Electronics,1,89.99,Customer 208
+10059,2026-04-16,Wireless Mouse,Electronics,1,29.99,Customer 87
+10424,2026-04-17,Office Chair,Furniture,1,229.99,Customer 143
+10838,2026-04-17,Office Chair,Furniture,2,229.99,Customer 102
+10519,2026-04-17,Wireless Mouse,Electronics,1,29.99,Customer 184
+10342,2026-04-17,Wireless Mouse,Electronics,1,29.99,Customer 200
+10182,2026-04-18,Office Chair,Furniture,1,229.99,Customer 88
+10782,2026-04-18,Office Chair,Furniture,1,229.99,Customer 208
+10997,2026-04-19,Wireless Mouse,Electronics,1,29.99,Customer 228
+10390,2026-04-19,Office Chair,Furniture,1,229.99,Customer 190
+10975,2026-04-19,Office Chair,Furniture,1,229.99,Customer 242
+10083,2026-04-19,Wireless Mouse,Electronics,1,29.99,Customer 130
+10053,2026-04-19,Office Chair,Furniture,1,229.99,Customer 72
+10521,2026-04-19,Laptop Stand,Accessories,1,39.99,Customer 82
+10348,2026-04-19,Desk Lamp,Furniture,2,49.99,Customer 83
+10215,2026-04-19,Desk Lamp,Furniture,1,49.99,Customer 176
+10276,2026-04-20,Mechanical Keyboard,Electronics,1,89.99,Customer 249
+10723,2026-04-20,Standing Desk,Furniture,1,449.99,Customer 145
+10922,2026-04-20,Standing Desk,Furniture,1,449.99,Customer 16
+10497,2026-04-20,Laptop,Electronics,1,899.99,Customer 104
+10435,2026-04-20,Mechanical Keyboard,Electronics,1,89.99,Customer 202
+10634,2026-04-20,Office Chair,Furniture,3,229.99,Customer 29
+10150,2026-04-21,Backpack,Accessories,1,69.99,Customer 60
+10709,2026-04-21,Standing Desk,Furniture,1,449.99,Customer 104
+10043,2026-04-21,Laptop Stand,Accessories,1,39.99,Customer 125
+10015,2026-04-21,Headphones,Electronics,2,79.99,Customer 222
+10491,2026-04-21,Standing Desk,Furniture,1,449.99,Customer 211
+10012,2026-04-21,Standing Desk,Furniture,1,449.99,Customer 213
+10077,2026-04-21,Laptop Stand,Accessories,1,39.99,Customer 150
+10529,2026-04-21,Headphones,Electronics,1,79.99,Customer 163
+10195,2026-04-22,Monitor,Electronics,1,249.99,Customer 105
+10715,2026-04-22,Mechanical Keyboard,Electronics,1,89.99,Customer 112
+10743,2026-04-22,Standing Desk,Furniture,2,449.99,Customer 144
+10359,2026-04-22,Wireless Mouse,Electronics,1,29.99,Customer 25
+10733,2026-04-22,Standing Desk,Furniture,2,449.99,Customer 76
+10217,2026-04-22,Headphones,Electronics,4,79.99,Customer 31
+10396,2026-04-23,Office Chair,Furniture,1,229.99,Customer 28
+10863,2026-04-23,Monitor,Electronics,2,249.99,Customer 36
+10003,2026-04-23,Backpack,Accessories,1,69.99,Customer 9
+10093,2026-04-24,Laptop,Electronics,1,899.99,Customer 213
+10848,2026-04-24,Headphones,Electronics,1,79.99,Customer 65
+10282,2026-04-24,Monitor,Electronics,1,249.99,Customer 26
+10198,2026-04-24,Laptop,Electronics,1,899.99,Customer 104
+10331,2026-04-24,Desk Lamp,Furniture,1,49.99,Customer 165
+10243,2026-04-24,Desk Lamp,Furniture,1,49.99,Customer 105
+10713,2026-04-24,Laptop,Electronics,1,899.99,Customer 97
+10004,2026-04-24,Laptop,Electronics,1,899.99,Customer 130
+10431,2026-04-24,Backpack,Accessories,1,69.99,Customer 109
+10921,2026-04-25,Laptop Stand,Accessories,1,39.99,Customer 164
+10547,2026-04-25,Mechanical Keyboard,Electronics,1,89.99,Customer 243
+10222,2026-04-26,Laptop Stand,Accessories,3,39.99,Customer 54
+10961,2026-04-26,Mechanical Keyboard,Electronics,1,89.99,Customer 62
+10274,2026-04-26,Desk Lamp,Furniture,1,49.99,Customer 117
+10328,2026-04-26,Office Chair,Furniture,4,229.99,Customer 95
+10211,2026-04-27,Desk Lamp,Furniture,2,49.99,Customer 147
+10179,2026-04-27,Monitor,Electronics,1,249.99,Customer 78
+10857,2026-04-27,Wireless Mouse,Electronics,1,29.99,Customer 226
+10009,2026-04-27,Office Chair,Furniture,1,229.99,Customer 25
+10611,2026-04-28,Laptop Stand,Accessories,3,39.99,Customer 86
+10116,2026-04-28,Laptop,Electronics,1,899.99,Customer 89
+10316,2026-04-28,Office Chair,Furniture,1,229.99,Customer 121
+10466,2026-04-29,Wireless Mouse,Electronics,2,29.99,Customer 128
+10974,2026-04-29,Mechanical Keyboard,Electronics,2,89.99,Customer 221
+10041,2026-04-29,Laptop,Electronics,3,899.99,Customer 225
+10097,2026-04-29,Laptop,Electronics,1,899.99,Customer 227
+10778,2026-04-30,Wireless Mouse,Electronics,2,29.99,Customer 187
+10214,2026-04-30,Desk Lamp,Furniture,2,49.99,Customer 103
+10793,2026-04-30,Desk Lamp,Furniture,1,49.99,Customer 221
+10886,2026-04-30,Standing Desk,Furniture,1,449.99,Customer 156
+10758,2026-04-30,Office Chair,Furniture,3,229.99,Customer 52
+10230,2026-04-30,Standing Desk,Furniture,1,449.99,Customer 166
+10257,2026-04-30,Monitor,Electronics,1,249.99,Customer 31
+10562,2026-05-01,Laptop Stand,Accessories,1,39.99,Customer 25
+10905,2026-05-01,Office Chair,Furniture,1,229.99,Customer 231
+10888,2026-05-01,Mechanical Keyboard,Electronics,1,89.99,Customer 36
+10180,2026-05-01,Laptop Stand,Accessories,2,39.99,Customer 145
+10387,2026-05-01,Office Chair,Furniture,1,229.99,Customer 192
+10931,2026-05-01,Headphones,Electronics,1,79.99,Customer 207
+10892,2026-05-01,Headphones,Electronics,2,79.99,Customer 8
+10510,2026-05-02,Monitor,Electronics,1,249.99,Customer 19
+10450,2026-05-02,Backpack,Accessories,1,69.99,Customer 196
+10944,2026-05-02,Office Chair,Furniture,1,229.99,Customer 119
+10254,2026-05-02,Desk Lamp,Furniture,1,49.99,Customer 162
+10546,2026-05-02,Desk Lamp,Furniture,1,49.99,Customer 64
+10938,2026-05-02,Mechanical Keyboard,Electronics,1,89.99,Customer 213
+10526,2026-05-02,Laptop,Electronics,1,899.99,Customer 78
+10651,2026-05-03,Backpack,Accessories,2,69.99,Customer 58
+10333,2026-05-03,Monitor,Electronics,2,249.99,Customer 53
+10341,2026-05-03,Laptop,Electronics,2,899.99,Customer 135
+10982,2026-05-03,Headphones,Electronics,1,79.99,Customer 1
+10523,2026-05-03,Office Chair,Furniture,2,229.99,Customer 200
+10430,2026-05-03,Office Chair,Furniture,1,229.99,Customer 213
+10943,2026-05-03,Desk Lamp,Furniture,1,49.99,Customer 217
+10125,2026-05-03,Backpack,Accessories,1,69.99,Customer 171
+10306,2026-05-04,Monitor,Electronics,2,249.99,Customer 225
+10084,2026-05-04,Headphones,Electronics,3,79.99,Customer 226
+10360,2026-05-04,Office Chair,Furniture,1,229.99,Customer 151
+10939,2026-05-04,Monitor,Electronics,1,249.99,Customer 103
+10438,2026-05-04,Laptop Stand,Accessories,1,39.99,Customer 40
+10428,2026-05-04,Standing Desk,Furniture,1,449.99,Customer 241
+10262,2026-05-05,Backpack,Accessories,2,69.99,Customer 71
+10753,2026-05-05,Laptop Stand,Accessories,1,39.99,Customer 155
+10750,2026-05-05,Wireless Mouse,Electronics,1,29.99,Customer 243
+10322,2026-05-05,Backpack,Accessories,1,69.99,Customer 95
+10649,2026-05-05,Backpack,Accessories,1,69.99,Customer 90
+10977,2026-05-05,Office Chair,Furniture,4,229.99,Customer 188
+10927,2026-05-05,Monitor,Electronics,2,249.99,Customer 150
+10646,2026-05-05,Mechanical Keyboard,Electronics,2,89.99,Customer 187
+10568,2026-05-06,Backpack,Accessories,1,69.99,Customer 157
+10516,2026-05-06,Monitor,Electronics,1,249.99,Customer 127
+10952,2026-05-06,Standing Desk,Furniture,1,449.99,Customer 165
+10699,2026-05-06,Standing Desk,Furniture,2,449.99,Customer 60
+10598,2026-05-06,Headphones,Electronics,1,79.99,Customer 190
+10858,2026-05-06,Headphones,Electronics,1,79.99,Customer 209
+10504,2026-05-06,Laptop Stand,Accessories,1,39.99,Customer 102
+10061,2026-05-06,Desk Lamp,Furniture,1,49.99,Customer 72
+10661,2026-05-06,Laptop,Electronics,1,899.99,Customer 75
+10320,2026-05-06,Wireless Mouse,Electronics,1,29.99,Customer 10
+10458,2026-05-06,Mechanical Keyboard,Electronics,1,89.99,Customer 235
+10002,2026-05-06,Monitor,Electronics,2,249.99,Customer 174
+10386,2026-05-06,Monitor,Electronics,2,249.99,Customer 75
+10275,2026-05-07,Laptop,Electronics,1,899.99,Customer 168
+10986,2026-05-07,Desk Lamp,Furniture,1,49.99,Customer 20
+10722,2026-05-07,Laptop Stand,Accessories,2,39.99,Customer 183
+10289,2026-05-07,Laptop Stand,Accessories,1,39.99,Customer 164
+10594,2026-05-08,Office Chair,Furniture,1,229.99,Customer 74
+10349,2026-05-08,Laptop Stand,Accessories,1,39.99,Customer 71
+10134,2026-05-08,Monitor,Electronics,1,249.99,Customer 63
+10689,2026-05-08,Monitor,Electronics,1,249.99,Customer 142
+10138,2026-05-08,Monitor,Electronics,1,249.99,Customer 2
+10403,2026-05-08,Wireless Mouse,Electronics,1,29.99,Customer 45
+10581,2026-05-09,Standing Desk,Furniture,1,449.99,Customer 53
+10901,2026-05-09,Standing Desk,Furniture,1,449.99,Customer 246
+10216,2026-05-09,Laptop,Electronics,1,899.99,Customer 145
+10707,2026-05-09,Backpack,Accessories,1,69.99,Customer 159
+10669,2026-05-09,Standing Desk,Furniture,1,449.99,Customer 48
+10426,2026-05-09,Laptop Stand,Accessories,1,39.99,Customer 150
+10090,2026-05-10,Backpack,Accessories,1,69.99,Customer 155
+10030,2026-05-10,Wireless Mouse,Electronics,1,29.99,Customer 203
+10928,2026-05-10,Wireless Mouse,Electronics,1,29.99,Customer 116
+10378,2026-05-10,Laptop,Electronics,1,899.99,Customer 159
+10404,2026-05-10,Laptop Stand,Accessories,2,39.99,Customer 168
+10365,2026-05-10,Monitor,Electronics,1,249.99,Customer 58
+10376,2026-05-11,Office Chair,Furniture,1,229.99,Customer 185
+10626,2026-05-11,Headphones,Electronics,1,79.99,Customer 129
+10073,2026-05-11,Backpack,Accessories,1,69.99,Customer 131
+10897,2026-05-11,Office Chair,Furniture,1,229.99,Customer 27
+10541,2026-05-11,Laptop,Electronics,1,899.99,Customer 124
+10145,2026-05-11,Desk Lamp,Furniture,2,49.99,Customer 122
+10603,2026-05-11,Backpack,Accessories,1,69.99,Customer 240
+10569,2026-05-12,Office Chair,Furniture,1,229.99,Customer 158
+10995,2026-05-12,Monitor,Electronics,1,249.99,Customer 205
+10889,2026-05-12,Laptop,Electronics,1,899.99,Customer 89
+10175,2026-05-12,Wireless Mouse,Electronics,3,29.99,Customer 28
+10017,2026-05-12,Office Chair,Furniture,1,229.99,Customer 54
+10020,2026-05-12,Monitor,Electronics,1,249.99,Customer 70
+10998,2026-05-12,Standing Desk,Furniture,2,449.99,Customer 141
+10527,2026-05-12,Mechanical Keyboard,Electronics,1,89.99,Customer 182
+10104,2026-05-12,Monitor,Electronics,4,249.99,Customer 208
+10992,2026-05-13,Standing Desk,Furniture,2,449.99,Customer 127
+10160,2026-05-13,Standing Desk,Furniture,2,449.99,Customer 236
+10891,2026-05-13,Headphones,Electronics,1,79.99,Customer 192
+10232,2026-05-13,Laptop,Electronics,2,899.99,Customer 153
+10174,2026-05-13,Office Chair,Furniture,1,229.99,Customer 247
+10440,2026-05-13,Laptop Stand,Accessories,2,39.99,Customer 12
+10065,2026-05-13,Monitor,Electronics,1,249.99,Customer 124
+10695,2026-05-14,Office Chair,Furniture,1,229.99,Customer 140
+10287,2026-05-14,Mechanical Keyboard,Electronics,1,89.99,Customer 157
+10131,2026-05-14,Desk Lamp,Furniture,1,49.99,Customer 73
+10745,2026-05-14,Standing Desk,Furniture,1,449.99,Customer 78
+10945,2026-05-14,Laptop,Electronics,3,899.99,Customer 111
+10947,2026-05-15,Standing Desk,Furniture,1,449.99,Customer 233
+10511,2026-05-15,Desk Lamp,Furniture,2,49.99,Customer 114
+10224,2026-05-15,Monitor,Electronics,1,249.99,Customer 41
+10607,2026-05-15,Laptop,Electronics,1,899.99,Customer 215
+10388,2026-05-15,Standing Desk,Furniture,1,449.99,Customer 137
+10797,2026-05-15,Laptop Stand,Accessories,2,39.99,Customer 181
+10979,2026-05-15,Office Chair,Furniture,2,229.99,Customer 144
+10115,2026-05-16,Headphones,Electronics,1,79.99,Customer 68
+10706,2026-05-16,Standing Desk,Furniture,1,449.99,Customer 25
+10906,2026-05-16,Laptop,Electronics,1,899.99,Customer 133
+10965,2026-05-16,Mechanical Keyboard,Electronics,1,89.99,Customer 82
+10650,2026-05-16,Wireless Mouse,Electronics,4,29.99,Customer 101
+10405,2026-05-16,Wireless Mouse,Electronics,3,29.99,Customer 161
+10439,2026-05-17,Mechanical Keyboard,Electronics,2,89.99,Customer 198
+10800,2026-05-17,Wireless Mouse,Electronics,1,29.99,Customer 37
+10957,2026-05-17,Headphones,Electronics,1,79.99,Customer 153
+10164,2026-05-17,Desk Lamp,Furniture,1,49.99,Customer 98
+10242,2026-05-17,Headphones,Electronics,4,79.99,Customer 112
+10074,2026-05-18,Wireless Mouse,Electronics,1,29.99,Customer 18
+10616,2026-05-18,Headphones,Electronics,1,79.99,Customer 87
+10792,2026-05-18,Backpack,Accessories,1,69.99,Customer 51
+10805,2026-05-18,Mechanical Keyboard,Electronics,1,89.99,Customer 116
+10696,2026-05-18,Desk Lamp,Furniture,3,49.99,Customer 139
+10609,2026-05-18,Desk Lamp,Furniture,3,49.99,Customer 247
+10330,2026-05-19,Headphones,Electronics,3,79.99,Customer 243
+10580,2026-05-19,Wireless Mouse,Electronics,1,29.99,Customer 81
+10550,2026-05-19,Office Chair,Furniture,2,229.99,Customer 128
+10655,2026-05-19,Headphones,Electronics,3,79.99,Customer 186
+10681,2026-05-19,Monitor,Electronics,3,249.99,Customer 31
+10401,2026-05-20,Backpack,Accessories,3,69.99,Customer 90
+10434,2026-05-20,Desk Lamp,Furniture,1,49.99,Customer 36
+10444,2026-05-20,Desk Lamp,Furniture,1,49.99,Customer 243
+10204,2026-05-20,Mechanical Keyboard,Electronics,1,89.99,Customer 124
+10691,2026-05-21,Mechanical Keyboard,Electronics,1,89.99,Customer 98
+10846,2026-05-22,Standing Desk,Furniture,4,449.99,Customer 233
+10482,2026-05-22,Laptop,Electronics,2,899.99,Customer 81
+10447,2026-05-22,Mechanical Keyboard,Electronics,2,89.99,Customer 36
+10882,2026-05-23,Backpack,Accessories,4,69.99,Customer 40
+10542,2026-05-23,Desk Lamp,Furniture,1,49.99,Customer 37
+10674,2026-05-23,Headphones,Electronics,1,79.99,Customer 21
+10821,2026-05-24,Monitor,Electronics,2,249.99,Customer 151
+10930,2026-05-24,Office Chair,Furniture,1,229.99,Customer 119
+10433,2026-05-25,Mechanical Keyboard,Electronics,1,89.99,Customer 197
+10054,2026-05-25,Desk Lamp,Furniture,1,49.99,Customer 186
+10165,2026-05-25,Office Chair,Furniture,1,229.99,Customer 87
+10877,2026-05-26,Headphones,Electronics,1,79.99,Customer 16
+10354,2026-05-26,Backpack,Accessories,1,69.99,Customer 228
+10375,2026-05-26,Backpack,Accessories,1,69.99,Customer 117
+10381,2026-05-26,Headphones,Electronics,2,79.99,Customer 30
+10384,2026-05-27,Laptop,Electronics,1,899.99,Customer 154
+10774,2026-05-27,Laptop Stand,Accessories,1,39.99,Customer 101
+10970,2026-05-27,Laptop Stand,Accessories,1,39.99,Customer 123
+10985,2026-05-27,Laptop Stand,Accessories,1,39.99,Customer 27
+10021,2026-05-27,Backpack,Accessories,1,69.99,Customer 216
+10963,2026-05-27,Laptop,Electronics,1,899.99,Customer 205
+10158,2026-05-27,Laptop Stand,Accessories,1,39.99,Customer 70
+10399,2026-05-27,Office Chair,Furniture,1,229.99,Customer 44
+10664,2026-05-27,Backpack,Accessories,1,69.99,Customer 71
+10811,2026-05-27,Laptop,Electronics,1,899.99,Customer 71
+10344,2026-05-27,Backpack,Accessories,3,69.99,Customer 12
+10109,2026-05-27,Desk Lamp,Furniture,1,49.99,Customer 236
+10111,2026-05-28,Monitor,Electronics,1,249.99,Customer 50
+10169,2026-05-28,Office Chair,Furniture,1,229.99,Customer 200
+10600,2026-05-28,Backpack,Accessories,1,69.99,Customer 14
+10903,2026-05-28,Standing Desk,Furniture,1,449.99,Customer 107
+10456,2026-05-28,Office Chair,Furniture,1,229.99,Customer 239
+10219,2026-05-28,Laptop Stand,Accessories,2,39.99,Customer 98
+10052,2026-05-29,Laptop,Electronics,1,899.99,Customer 9
+10731,2026-05-29,Desk Lamp,Furniture,1,49.99,Customer 241
+10022,2026-05-29,Laptop,Electronics,2,899.99,Customer 207
+10856,2026-05-29,Wireless Mouse,Electronics,1,29.99,Customer 188
+10300,2026-05-29,Headphones,Electronics,1,79.99,Customer 91
+10660,2026-05-30,Desk Lamp,Furniture,1,49.99,Customer 194
+10443,2026-05-30,Desk Lamp,Furniture,1,49.99,Customer 80
+10133,2026-05-31,Wireless Mouse,Electronics,1,29.99,Customer 58
+10663,2026-05-31,Office Chair,Furniture,1,229.99,Customer 37
+10455,2026-05-31,Office Chair,Furniture,1,229.99,Customer 21
+10255,2026-06-01,Laptop Stand,Accessories,2,39.99,Customer 80
+10476,2026-06-01,Office Chair,Furniture,2,229.99,Customer 161
+10042,2026-06-01,Headphones,Electronics,1,79.99,Customer 225
+10763,2026-06-01,Headphones,Electronics,1,79.99,Customer 40
+10468,2026-06-01,Laptop Stand,Accessories,2,39.99,Customer 75
+10599,2026-06-01,Laptop Stand,Accessories,1,39.99,Customer 172
+10682,2026-06-02,Desk Lamp,Furniture,1,49.99,Customer 181
+10659,2026-06-02,Laptop,Electronics,2,899.99,Customer 103
+10692,2026-06-02,Laptop Stand,Accessories,1,39.99,Customer 168
+10085,2026-06-02,Wireless Mouse,Electronics,1,29.99,Customer 41
+10900,2026-06-02,Laptop,Electronics,1,899.99,Customer 94
+10654,2026-06-03,Monitor,Electronics,1,249.99,Customer 40
+10062,2026-06-03,Desk Lamp,Furniture,2,49.99,Customer 20
+10060,2026-06-03,Wireless Mouse,Electronics,1,29.99,Customer 138
+10937,2026-06-03,Backpack,Accessories,1,69.99,Customer 27
+10026,2026-06-03,Mechanical Keyboard,Electronics,2,89.99,Customer 138
+10076,2026-06-03,Laptop Stand,Accessories,1,39.99,Customer 11
+10953,2026-06-03,Backpack,Accessories,1,69.99,Customer 206
+10632,2026-06-03,Monitor,Electronics,1,249.99,Customer 153
+10708,2026-06-04,Backpack,Accessories,2,69.99,Customer 69
+10167,2026-06-04,Standing Desk,Furniture,2,449.99,Customer 121
+10308,2026-06-05,Mechanical Keyboard,Electronics,3,89.99,Customer 242
+10693,2026-06-05,Office Chair,Furniture,2,229.99,Customer 126
+10508,2026-06-06,Headphones,Electronics,2,79.99,Customer 55
+10924,2026-06-06,Headphones,Electronics,2,79.99,Customer 238
+10146,2026-06-06,Desk Lamp,Furniture,2,49.99,Customer 216
+10935,2026-06-06,Headphones,Electronics,2,79.99,Customer 45
+10313,2026-06-07,Laptop,Electronics,1,899.99,Customer 117
+10089,2026-06-07,Mechanical Keyboard,Electronics,1,89.99,Customer 28
+10228,2026-06-07,Monitor,Electronics,2,249.99,Customer 161
+10223,2026-06-07,Monitor,Electronics,1,249.99,Customer 41
+10536,2026-06-07,Laptop Stand,Accessories,1,39.99,Customer 197
+10036,2026-06-07,Laptop,Electronics,4,899.99,Customer 196
+10188,2026-06-08,Laptop Stand,Accessories,1,39.99,Customer 63
+10231,2026-06-08,Mechanical Keyboard,Electronics,2,89.99,Customer 19
+10034,2026-06-08,Backpack,Accessories,2,69.99,Customer 88
+10490,2026-06-08,Backpack,Accessories,2,69.99,Customer 187
+10815,2026-06-08,Wireless Mouse,Electronics,2,29.99,Customer 211
+10107,2026-06-08,Monitor,Electronics,1,249.99,Customer 180
+10738,2026-06-09,Office Chair,Furniture,1,229.99,Customer 23
+10904,2026-06-09,Office Chair,Furniture,2,229.99,Customer 147
+10149,2026-06-09,Monitor,Electronics,1,249.99,Customer 229
+10597,2026-06-09,Backpack,Accessories,3,69.99,Customer 179
+10451,2026-06-09,Mechanical Keyboard,Electronics,1,89.99,Customer 132
+10948,2026-06-10,Mechanical Keyboard,Electronics,1,89.99,Customer 227
+10298,2026-06-10,Standing Desk,Furniture,1,449.99,Customer 222
+10747,2026-06-10,Standing Desk,Furniture,1,449.99,Customer 124
+10530,2026-06-10,Backpack,Accessories,1,69.99,Customer 78
+10589,2026-06-11,Monitor,Electronics,1,249.99,Customer 58
+10166,2026-06-11,Standing Desk,Furniture,2,449.99,Customer 213
+10881,2026-06-11,Mechanical Keyboard,Electronics,1,89.99,Customer 21
+10757,2026-06-11,Standing Desk,Furniture,2,449.99,Customer 101
+10189,2026-06-11,Wireless Mouse,Electronics,2,29.99,Customer 63
+10367,2026-06-11,Wireless Mouse,Electronics,1,29.99,Customer 207
+10206,2026-06-12,Laptop Stand,Accessories,4,39.99,Customer 214
+10684,2026-06-12,Office Chair,Furniture,1,229.99,Customer 137
+10425,2026-06-12,Standing Desk,Furniture,1,449.99,Customer 219
+10253,2026-06-13,Mechanical Keyboard,Electronics,1,89.99,Customer 179
+10556,2026-06-13,Desk Lamp,Furniture,1,49.99,Customer 217
+10560,2026-06-13,Backpack,Accessories,1,69.99,Customer 130
+10291,2026-06-13,Desk Lamp,Furniture,1,49.99,Customer 41
+10485,2026-06-13,Monitor,Electronics,1,249.99,Customer 200
+10068,2026-06-13,Desk Lamp,Furniture,1,49.99,Customer 246
+10592,2026-06-13,Headphones,Electronics,1,79.99,Customer 174
+10590,2026-06-13,Headphones,Electronics,2,79.99,Customer 177
+10509,2026-06-13,Laptop Stand,Accessories,1,39.99,Customer 126
+10233,2026-06-13,Laptop Stand,Accessories,1,39.99,Customer 120
+10826,2026-06-14,Headphones,Electronics,1,79.99,Customer 244
+10226,2026-06-14,Desk Lamp,Furniture,1,49.99,Customer 74
+10777,2026-06-15,Wireless Mouse,Electronics,1,29.99,Customer 247
+10207,2026-06-15,Monitor,Electronics,1,249.99,Customer 46
+10309,2026-06-15,Desk Lamp,Furniture,2,49.99,Customer 87
+10870,2026-06-15,Standing Desk,Furniture,1,449.99,Customer 201
+10996,2026-06-15,Laptop,Electronics,1,899.99,Customer 67
+10035,2026-06-15,Wireless Mouse,Electronics,1,29.99,Customer 117
+10070,2026-06-15,Monitor,Electronics,1,249.99,Customer 15
+10711,2026-06-16,Monitor,Electronics,1,249.99,Customer 218
+10514,2026-06-16,Headphones,Electronics,2,79.99,Customer 183
+10540,2026-06-16,Standing Desk,Furniture,1,449.99,Customer 177
+10123,2026-06-16,Wireless Mouse,Electronics,1,29.99,Customer 171
+10156,2026-06-16,Office Chair,Furniture,2,229.99,Customer 219
+10910,2026-06-17,Laptop Stand,Accessories,2,39.99,Customer 63
+10680,2026-06-17,Office Chair,Furniture,3,229.99,Customer 4
+10128,2026-06-17,Laptop,Electronics,1,899.99,Customer 111
+10464,2026-06-17,Monitor,Electronics,1,249.99,Customer 62
+10345,2026-06-17,Backpack,Accessories,1,69.99,Customer 247
+10100,2026-06-18,Laptop,Electronics,1,899.99,Customer 239
+10685,2026-06-18,Office Chair,Furniture,1,229.99,Customer 132
+10916,2026-06-18,Standing Desk,Furniture,1,449.99,Customer 136
+10574,2026-06-18,Laptop Stand,Accessories,2,39.99,Customer 186
+10199,2026-06-18,Monitor,Electronics,1,249.99,Customer 95
+10202,2026-06-18,Headphones,Electronics,1,79.99,Customer 31
+10221,2026-06-18,Standing Desk,Furniture,1,449.99,Customer 16
+10908,2026-06-19,Headphones,Electronics,1,79.99,Customer 142
+10303,2026-06-19,Laptop,Electronics,2,899.99,Customer 9
+10429,2026-06-19,Wireless Mouse,Electronics,1,29.99,Customer 165
+10887,2026-06-19,Laptop,Electronics,1,899.99,Customer 169
+10884,2026-06-19,Wireless Mouse,Electronics,1,29.99,Customer 187
+10412,2026-06-19,Wireless Mouse,Electronics,1,29.99,Customer 10
+10203,2026-06-20,Monitor,Electronics,1,249.99,Customer 138
+10024,2026-06-20,Laptop Stand,Accessories,1,39.99,Customer 128
+10865,2026-06-20,Standing Desk,Furniture,2,449.99,Customer 64
+10929,2026-06-20,Desk Lamp,Furniture,1,49.99,Customer 138
+10799,2026-06-20,Mechanical Keyboard,Electronics,1,89.99,Customer 79
+10392,2026-06-20,Wireless Mouse,Electronics,1,29.99,Customer 147
+10357,2026-06-20,Standing Desk,Furniture,1,449.99,Customer 96
+10721,2026-06-20,Mechanical Keyboard,Electronics,1,89.99,Customer 54
+10687,2026-06-21,Desk Lamp,Furniture,3,49.99,Customer 95
+10755,2026-06-21,Standing Desk,Furniture,1,449.99,Customer 178
+10591,2026-06-21,Desk Lamp,Furniture,1,49.99,Customer 144
+10543,2026-06-21,Office Chair,Furniture,2,229.99,Customer 221
+10417,2026-06-22,Monitor,Electronics,1,249.99,Customer 129
+10244,2026-06-22,Office Chair,Furniture,1,229.99,Customer 220
+10268,2026-06-22,Desk Lamp,Furniture,2,49.99,Customer 179
+10621,2026-06-22,Desk Lamp,Furniture,3,49.99,Customer 2
+10605,2026-06-22,Headphones,Electronics,1,79.99,Customer 16
+10840,2026-06-22,Headphones,Electronics,2,79.99,Customer 87
+10248,2026-06-22,Headphones,Electronics,1,79.99,Customer 198
+10340,2026-06-22,Laptop Stand,Accessories,1,39.99,Customer 68
+10549,2026-06-23,Mechanical Keyboard,Electronics,3,89.99,Customer 185
+10883,2026-06-23,Backpack,Accessories,1,69.99,Customer 163
+10305,2026-06-23,Headphones,Electronics,2,79.99,Customer 45
+10124,2026-06-23,Standing Desk,Furniture,1,449.99,Customer 76
+10493,2026-06-23,Wireless Mouse,Electronics,1,29.99,Customer 79
+10933,2026-06-23,Monitor,Electronics,1,249.99,Customer 183
+10114,2026-06-24,Backpack,Accessories,3,69.99,Customer 30
+10623,2026-06-24,Headphones,Electronics,1,79.99,Customer 186
+10112,2026-06-24,Standing Desk,Furniture,1,449.99,Customer 18
+10278,2026-06-24,Wireless Mouse,Electronics,2,29.99,Customer 220
+10771,2026-06-24,Standing Desk,Furniture,3,449.99,Customer 111
+10615,2026-06-24,Wireless Mouse,Electronics,1,29.99,Customer 118
+10971,2026-06-24,Laptop,Electronics,3,899.99,Customer 52
+10201,2026-06-24,Backpack,Accessories,1,69.99,Customer 117
+10335,2026-06-24,Monitor,Electronics,2,249.99,Customer 202
+10245,2026-06-24,Mechanical Keyboard,Electronics,1,89.99,Customer 127
+10725,2026-06-24,Backpack,Accessories,1,69.99,Customer 190
+10915,2026-06-25,Laptop,Electronics,1,899.99,Customer 169
+10751,2026-06-25,Standing Desk,Furniture,2,449.99,Customer 98
+10050,2026-06-26,Wireless Mouse,Electronics,1,29.99,Customer 142
+10372,2026-06-26,Headphones,Electronics,1,79.99,Customer 47
+10534,2026-06-26,Laptop Stand,Accessories,2,39.99,Customer 145
+10423,2026-06-26,Standing Desk,Furniture,1,449.99,Customer 14
+10277,2026-06-26,Headphones,Electronics,1,79.99,Customer 102
+10999,2026-06-26,Wireless Mouse,Electronics,1,29.99,Customer 158
+10008,2026-06-27,Standing Desk,Furniture,1,449.99,Customer 56
+10263,2026-06-27,Standing Desk,Furniture,3,449.99,Customer 130
+10091,2026-06-27,Monitor,Electronics,1,249.99,Customer 163
+10972,2026-06-27,Mechanical Keyboard,Electronics,2,89.99,Customer 236
+10193,2026-06-27,Headphones,Electronics,1,79.99,Customer 153
+10728,2026-06-27,Wireless Mouse,Electronics,1,29.99,Customer 158
+10842,2026-06-27,Desk Lamp,Furniture,2,49.99,Customer 196
+10181,2026-06-28,Laptop,Electronics,1,899.99,Customer 170
+10010,2026-06-28,Office Chair,Furniture,1,229.99,Customer 207
+10776,2026-06-28,Mechanical Keyboard,Electronics,4,89.99,Customer 124
+10528,2026-06-28,Monitor,Electronics,3,249.99,Customer 133
+10595,2026-06-28,Wireless Mouse,Electronics,3,29.99,Customer 168
+10987,2026-06-28,Monitor,Electronics,4,249.99,Customer 43
+10110,2026-06-29,Desk Lamp,Furniture,1,49.99,Customer 204
+10796,2026-06-29,Wireless Mouse,Electronics,1,29.99,Customer 118
+10993,2026-06-29,Standing Desk,Furniture,1,449.99,Customer 26
+10113,2026-06-29,Headphones,Electronics,1,79.99,Customer 103
+10779,2026-06-29,Mechanical Keyboard,Electronics,1,89.99,Customer 117
+10427,2026-06-29,Mechanical Keyboard,Electronics,1,89.99,Customer 168
+10366,2026-06-29,Wireless Mouse,Electronics,2,29.99,Customer 95
+10495,2026-06-29,Desk Lamp,Furniture,1,49.99,Customer 187
+10364,2026-06-30,Headphones,Electronics,1,79.99,Customer 130
+10057,2026-06-30,Standing Desk,Furniture,1,449.99,Customer 120
+10964,2026-06-30,Standing Desk,Furniture,3,449.99,Customer 217
+10587,2026-06-30,Backpack,Accessories,1,69.99,Customer 223
+10554,2026-06-30,Laptop Stand,Accessories,1,39.99,Customer 73
+10102,2026-06-30,Wireless Mouse,Electronics,2,29.99,Customer 227
+10362,2026-06-30,Standing Desk,Furniture,2,449.99,Customer 241
+10101,2026-07-01,Laptop,Electronics,1,899.99,Customer 64
+10285,2026-07-01,Headphones,Electronics,1,79.99,Customer 38
+10296,2026-07-01,Laptop Stand,Accessories,1,39.99,Customer 180
+10934,2026-07-01,Monitor,Electronics,1,249.99,Customer 13
+10960,2026-07-01,Backpack,Accessories,2,69.99,Customer 60
+10339,2026-07-01,Laptop,Electronics,2,899.99,Customer 61
+10980,2026-07-01,Laptop Stand,Accessories,1,39.99,Customer 151
+10028,2026-07-02,Standing Desk,Furniture,1,449.99,Customer 36
+10251,2026-07-02,Backpack,Accessories,1,69.99,Customer 128
+10515,2026-07-02,Mechanical Keyboard,Electronics,1,89.99,Customer 32
+10013,2026-07-02,Laptop Stand,Accessories,1,39.99,Customer 181
+10873,2026-07-02,Laptop,Electronics,3,899.99,Customer 34
+10748,2026-07-02,Wireless Mouse,Electronics,1,29.99,Customer 64
+10501,2026-07-02,Office Chair,Furniture,1,229.99,Customer 146
+10184,2026-07-02,Standing Desk,Furniture,1,449.99,Customer 213
+10432,2026-07-02,Backpack,Accessories,1,69.99,Customer 80
+10517,2026-07-02,Laptop,Electronics,1,899.99,Customer 95
+10312,2026-07-03,Backpack,Accessories,1,69.99,Customer 102
+10441,2026-07-03,Standing Desk,Furniture,1,449.99,Customer 61
+10304,2026-07-03,Laptop Stand,Accessories,2,39.99,Customer 24
+10121,2026-07-03,Monitor,Electronics,1,249.99,Customer 243
+10564,2026-07-03,Backpack,Accessories,2,69.99,Customer 51
+10628,2026-07-04,Headphones,Electronics,1,79.99,Customer 57
+10675,2026-07-04,Desk Lamp,Furniture,1,49.99,Customer 186
+10413,2026-07-04,Laptop,Electronics,2,899.99,Customer 20
+10911,2026-07-04,Desk Lamp,Furniture,1,49.99,Customer 127
+10849,2026-07-05,Wireless Mouse,Electronics,1,29.99,Customer 167
+10563,2026-07-05,Standing Desk,Furniture,2,449.99,Customer 87
+10503,2026-07-05,Office Chair,Furniture,1,229.99,Customer 20
+10647,2026-07-05,Standing Desk,Furniture,4,449.99,Customer 98
+10630,2026-07-05,Laptop Stand,Accessories,1,39.99,Customer 141
+10422,2026-07-05,Office Chair,Furniture,3,229.99,Customer 100
+10039,2026-07-05,Mechanical Keyboard,Electronics,2,89.99,Customer 139
+10648,2026-07-06,Desk Lamp,Furniture,1,49.99,Customer 175
+10764,2026-07-06,Standing Desk,Furniture,1,449.99,Customer 154
+10981,2026-07-06,Mechanical Keyboard,Electronics,1,89.99,Customer 177
+10735,2026-07-07,Mechanical Keyboard,Electronics,2,89.99,Customer 163
+10351,2026-07-07,Office Chair,Furniture,4,229.99,Customer 136
+10593,2026-07-07,Backpack,Accessories,2,69.99,Customer 102
+10315,2026-07-07,Laptop Stand,Accessories,2,39.99,Customer 241
+10578,2026-07-07,Laptop Stand,Accessories,1,39.99,Customer 175
+10279,2026-07-07,Backpack,Accessories,3,69.99,Customer 161
+10016,2026-07-07,Wireless Mouse,Electronics,1,29.99,Customer 163
+10108,2026-07-07,Wireless Mouse,Electronics,2,29.99,Customer 220
+10742,2026-07-08,Office Chair,Furniture,1,229.99,Customer 106
+10261,2026-07-08,Mechanical Keyboard,Electronics,1,89.99,Customer 154
+10271,2026-07-08,Standing Desk,Furniture,4,449.99,Customer 203
+10488,2026-07-08,Desk Lamp,Furniture,1,49.99,Customer 48
+10118,2026-07-08,Wireless Mouse,Electronics,2,29.99,Customer 49
+10622,2026-07-08,Headphones,Electronics,1,79.99,Customer 193
+10802,2026-07-08,Laptop Stand,Accessories,1,39.99,Customer 125
+10801,2026-07-09,Backpack,Accessories,1,69.99,Customer 36
+10154,2026-07-09,Standing Desk,Furniture,3,449.99,Customer 150
+10507,2026-07-09,Backpack,Accessories,3,69.99,Customer 31
+10795,2026-07-09,Laptop Stand,Accessories,1,39.99,Customer 151
+10736,2026-07-09,Mechanical Keyboard,Electronics,1,89.99,Customer 28
+10983,2026-07-10,Laptop Stand,Accessories,2,39.99,Customer 198
+10398,2026-07-11,Wireless Mouse,Electronics,2,29.99,Customer 191
+10729,2026-07-11,Laptop Stand,Accessories,3,39.99,Customer 84
+10177,2026-07-11,Standing Desk,Furniture,3,449.99,Customer 51
+10683,2026-07-11,Monitor,Electronics,3,249.99,Customer 142
+10788,2026-07-11,Standing Desk,Furniture,1,449.99,Customer 158
+10080,2026-07-11,Headphones,Electronics,1,79.99,Customer 166
+10642,2026-07-11,Laptop,Electronics,1,899.99,Customer 1
+10066,2026-07-12,Monitor,Electronics,3,249.99,Customer 43
+10544,2026-07-12,Office Chair,Furniture,1,229.99,Customer 95
+10907,2026-07-12,Laptop,Electronics,1,899.99,Customer 120
+10023,2026-07-12,Office Chair,Furniture,1,229.99,Customer 55
+10075,2026-07-13,Monitor,Electronics,1,249.99,Customer 228
+10834,2026-07-13,Wireless Mouse,Electronics,1,29.99,Customer 72
+10787,2026-07-13,Monitor,Electronics,1,249.99,Customer 48
+10394,2026-07-13,Wireless Mouse,Electronics,1,29.99,Customer 84
+10936,2026-07-13,Laptop,Electronics,2,899.99,Customer 143
+10558,2026-07-13,Office Chair,Furniture,1,229.99,Customer 103
+10740,2026-07-14,Backpack,Accessories,1,69.99,Customer 23
+10762,2026-07-14,Wireless Mouse,Electronics,1,29.99,Customer 36
+10056,2026-07-14,Desk Lamp,Furniture,1,49.99,Customer 25
+10225,2026-07-14,Laptop,Electronics,1,899.99,Customer 153
+10355,2026-07-15,Monitor,Electronics,1,249.99,Customer 117
+10862,2026-07-15,Mechanical Keyboard,Electronics,1,89.99,Customer 114
+10105,2026-07-15,Mechanical Keyboard,Electronics,1,89.99,Customer 189
+10688,2026-07-15,Office Chair,Furniture,1,229.99,Customer 222
+10106,2026-07-15,Office Chair,Furniture,2,229.99,Customer 222
+10601,2026-07-15,Wireless Mouse,Electronics,1,29.99,Customer 121
+10324,2026-07-16,Mechanical Keyboard,Electronics,1,89.99,Customer 214
+10152,2026-07-16,Wireless Mouse,Electronics,1,29.99,Customer 139
+10454,2026-07-16,Laptop,Electronics,1,899.99,Customer 129
+10879,2026-07-16,Backpack,Accessories,1,69.99,Customer 103
+10470,2026-07-16,Laptop Stand,Accessories,1,39.99,Customer 172
+10537,2026-07-16,Laptop Stand,Accessories,1,39.99,Customer 8
+10356,2026-07-16,Standing Desk,Furniture,2,449.99,Customer 81
+10218,2026-07-16,Backpack,Accessories,1,69.99,Customer 203
+10136,2026-07-16,Desk Lamp,Furniture,2,49.99,Customer 148
+10153,2026-07-16,Desk Lamp,Furniture,1,49.99,Customer 214
+10323,2026-07-17,Backpack,Accessories,1,69.99,Customer 187
+10917,2026-07-17,Monitor,Electronics,1,249.99,Customer 16
+10183,2026-07-17,Laptop,Electronics,2,899.99,Customer 28
+10006,2026-07-17,Backpack,Accessories,1,69.99,Customer 151
+10653,2026-07-18,Backpack,Accessories,1,69.99,Customer 211
+10046,2026-07-18,Laptop Stand,Accessories,3,39.99,Customer 238
+10463,2026-07-18,Backpack,Accessories,1,69.99,Customer 74
+10139,2026-07-18,Wireless Mouse,Electronics,1,29.99,Customer 206
+10855,2026-07-18,Wireless Mouse,Electronics,1,29.99,Customer 123
+10619,2026-07-19,Standing Desk,Furniture,1,449.99,Customer 23
+10851,2026-07-19,Monitor,Electronics,1,249.99,Customer 181
+10893,2026-07-19,Office Chair,Furniture,1,229.99,Customer 17
+10347,2026-07-19,Standing Desk,Furniture,1,449.99,Customer 126
+10839,2026-07-19,Monitor,Electronics,2,249.99,Customer 127
+10144,2026-07-19,Backpack,Accessories,2,69.99,Customer 141
+10739,2026-07-20,Mechanical Keyboard,Electronics,1,89.99,Customer 143
+10557,2026-07-20,Wireless Mouse,Electronics,1,29.99,Customer 68
+10525,2026-07-20,Mechanical Keyboard,Electronics,1,89.99,Customer 223
+10732,2026-07-20,Standing Desk,Furniture,1,449.99,Customer 150
+10382,2026-07-20,Office Chair,Furniture,1,229.99,Customer 174
+10391,2026-07-21,Laptop,Electronics,1,899.99,Customer 236
+10397,2026-07-21,Monitor,Electronics,1,249.99,Customer 135
+10452,2026-07-21,Mechanical Keyboard,Electronics,1,89.99,Customer 234
+10117,2026-07-21,Office Chair,Furniture,1,229.99,Customer 131
+10487,2026-07-21,Office Chair,Furniture,2,229.99,Customer 191
+10781,2026-07-22,Wireless Mouse,Electronics,2,29.99,Customer 116
+10761,2026-07-22,Monitor,Electronics,2,249.99,Customer 213
+10820,2026-07-22,Wireless Mouse,Electronics,2,29.99,Customer 31
+10752,2026-07-22,Office Chair,Furniture,1,229.99,Customer 209
+10148,2026-07-22,Headphones,Electronics,1,79.99,Customer 74
+10861,2026-07-22,Mechanical Keyboard,Electronics,1,89.99,Customer 55
+10445,2026-07-22,Laptop Stand,Accessories,1,39.99,Customer 73
+10845,2026-07-22,Mechanical Keyboard,Electronics,1,89.99,Customer 246
+10220,2026-07-23,Desk Lamp,Furniture,1,49.99,Customer 151
+10283,2026-07-23,Wireless Mouse,Electronics,1,29.99,Customer 77
+10327,2026-07-23,Desk Lamp,Furniture,3,49.99,Customer 219
+10130,2026-07-23,Desk Lamp,Furniture,1,49.99,Customer 131
+10637,2026-07-23,Backpack,Accessories,1,69.99,Customer 53
+10292,2026-07-23,Wireless Mouse,Electronics,3,29.99,Customer 151
+10460,2026-07-24,Desk Lamp,Furniture,1,49.99,Customer 232
+10989,2026-07-24,Office Chair,Furniture,1,229.99,Customer 54
+10407,2026-07-24,Laptop Stand,Accessories,1,39.99,Customer 226
+10266,2026-07-24,Mechanical Keyboard,Electronics,1,89.99,Customer 89
+10416,2026-07-25,Laptop,Electronics,3,899.99,Customer 147
+10926,2026-07-25,Office Chair,Furniture,1,229.99,Customer 20
+10049,2026-07-25,Backpack,Accessories,1,69.99,Customer 58
+10819,2026-07-25,Laptop,Electronics,1,899.99,Customer 221
+10453,2026-07-25,Monitor,Electronics,2,249.99,Customer 239
+10522,2026-07-25,Wireless Mouse,Electronics,1,29.99,Customer 133
+10789,2026-07-25,Monitor,Electronics,1,249.99,Customer 100
+10352,2026-07-26,Headphones,Electronics,1,79.99,Customer 111
+10612,2026-07-26,Headphones,Electronics,4,79.99,Customer 140
+10701,2026-07-26,Backpack,Accessories,1,69.99,Customer 159
+10835,2026-07-26,Office Chair,Furniture,3,229.99,Customer 84
+10640,2026-07-26,Standing Desk,Furniture,1,449.99,Customer 144
+10294,2026-07-26,Headphones,Electronics,2,79.99,Customer 51
+10141,2026-07-26,Wireless Mouse,Electronics,1,29.99,Customer 119
+10586,2026-07-27,Mechanical Keyboard,Electronics,3,89.99,Customer 88
+10481,2026-07-27,Wireless Mouse,Electronics,1,29.99,Customer 52
+10694,2026-07-27,Desk Lamp,Furniture,1,49.99,Customer 204
+10553,2026-07-27,Backpack,Accessories,3,69.99,Customer 56
+10011,2026-07-27,Laptop,Electronics,1,899.99,Customer 250
+10920,2026-07-27,Office Chair,Furniture,4,229.99,Customer 22
+10290,2026-07-27,Headphones,Electronics,1,79.99,Customer 3
+10081,2026-07-27,Headphones,Electronics,1,79.99,Customer 193
+10837,2026-07-27,Wireless Mouse,Electronics,1,29.99,Customer 179
+10250,2026-07-28,Backpack,Accessories,1,69.99,Customer 49
+10140,2026-07-28,Backpack,Accessories,1,69.99,Customer 64
+10406,2026-07-28,Desk Lamp,Furniture,2,49.99,Customer 195
+10173,2026-07-29,Monitor,Electronics,1,249.99,Customer 197
+10551,2026-07-29,Backpack,Accessories,1,69.99,Customer 79
+10686,2026-07-29,Desk Lamp,Furniture,1,49.99,Customer 185
+10614,2026-07-29,Backpack,Accessories,1,69.99,Customer 208
+10032,2026-07-29,Laptop Stand,Accessories,1,39.99,Customer 249
+10310,2026-07-29,Wireless Mouse,Electronics,3,29.99,Customer 37
+10212,2026-07-30,Headphones,Electronics,1,79.99,Customer 88
+10241,2026-07-30,Mechanical Keyboard,Electronics,1,89.99,Customer 114
+10875,2026-07-30,Mechanical Keyboard,Electronics,3,89.99,Customer 198
+10645,2026-07-30,Wireless Mouse,Electronics,1,29.99,Customer 105
+10410,2026-07-30,Wireless Mouse,Electronics,1,29.99,Customer 78
+10260,2026-07-30,Desk Lamp,Furniture,1,49.99,Customer 142
+10484,2026-07-31,Backpack,Accessories,1,69.99,Customer 193
+10670,2026-07-31,Backpack,Accessories,1,69.99,Customer 58
+10714,2026-07-31,Backpack,Accessories,1,69.99,Customer 3
+10572,2026-07-31,Headphones,Electronics,2,79.99,Customer 95
+10955,2026-08-01,Office Chair,Furniture,1,229.99,Customer 125
+10951,2026-08-01,Backpack,Accessories,1,69.99,Customer 72
+10754,2026-08-01,Monitor,Electronics,1,249.99,Customer 247
+10577,2026-08-01,Laptop Stand,Accessories,1,39.99,Customer 162
+10596,2026-08-01,Headphones,Electronics,1,79.99,Customer 212
+10679,2026-08-01,Monitor,Electronics,1,249.99,Customer 233
+10629,2026-08-01,Mechanical Keyboard,Electronics,1,89.99,Customer 192
+10604,2026-08-01,Desk Lamp,Furniture,1,49.99,Customer 194
+10295,2026-08-02,Standing Desk,Furniture,1,449.99,Customer 98
+10187,2026-08-02,Backpack,Accessories,1,69.99,Customer 212
+10539,2026-08-02,Headphones,Electronics,1,79.99,Customer 207
+10702,2026-08-02,Laptop Stand,Accessories,1,39.99,Customer 5
+10159,2026-08-03,Standing Desk,Furniture,1,449.99,Customer 87
+10807,2026-08-03,Laptop,Electronics,1,899.99,Customer 209
+10192,2026-08-03,Mechanical Keyboard,Electronics,1,89.99,Customer 205
+10383,2026-08-03,Laptop Stand,Accessories,1,39.99,Customer 79
+10380,2026-08-03,Standing Desk,Furniture,1,449.99,Customer 107
+10810,2026-08-04,Desk Lamp,Furniture,1,49.99,Customer 145
+10638,2026-08-04,Laptop Stand,Accessories,1,39.99,Customer 131
+10831,2026-08-04,Standing Desk,Furniture,1,449.99,Customer 162
+10029,2026-08-05,Backpack,Accessories,1,69.99,Customer 13
+10746,2026-08-05,Headphones,Electronics,1,79.99,Customer 43
+10272,2026-08-05,Mechanical Keyboard,Electronics,3,89.99,Customer 33
+10613,2026-08-05,Backpack,Accessories,2,69.99,Customer 35
+10968,2026-08-05,Monitor,Electronics,1,249.99,Customer 45
+10321,2026-08-05,Headphones,Electronics,1,79.99,Customer 61
+10871,2026-08-05,Monitor,Electronics,1,249.99,Customer 62
+10896,2026-08-06,Laptop,Electronics,2,899.99,Customer 43
+10258,2026-08-06,Mechanical Keyboard,Electronics,3,89.99,Customer 75
+10895,2026-08-06,Wireless Mouse,Electronics,1,29.99,Customer 93
+10946,2026-08-06,Standing Desk,Furniture,1,449.99,Customer 175
+10389,2026-08-07,Monitor,Electronics,1,249.99,Customer 172
+10446,2026-08-07,Standing Desk,Furniture,1,449.99,Customer 248
+10582,2026-08-07,Standing Desk,Furniture,2,449.99,Customer 236
+10037,2026-08-08,Mechanical Keyboard,Electronics,3,89.99,Customer 223
+10878,2026-08-08,Standing Desk,Furniture,1,449.99,Customer 183
+10092,2026-08-08,Headphones,Electronics,1,79.99,Customer 232
+10436,2026-08-08,Wireless Mouse,Electronics,2,29.99,Customer 214
+10565,2026-08-09,Laptop Stand,Accessories,1,39.99,Customer 11
+10400,2026-08-09,Wireless Mouse,Electronics,1,29.99,Customer 136
+10343,2026-08-10,Office Chair,Furniture,1,229.99,Customer 116
+10483,2026-08-10,Headphones,Electronics,1,79.99,Customer 209
+10249,2026-08-10,Standing Desk,Furniture,2,449.99,Customer 1
+10498,2026-08-10,Office Chair,Furniture,2,229.99,Customer 174
+10567,2026-08-11,Desk Lamp,Furniture,1,49.99,Customer 156
+10785,2026-08-11,Monitor,Electronics,1,249.99,Customer 41
+10773,2026-08-11,Backpack,Accessories,1,69.99,Customer 177
+10890,2026-08-11,Backpack,Accessories,2,69.99,Customer 185
+10780,2026-08-12,Monitor,Electronics,1,249.99,Customer 122
+10147,2026-08-12,Headphones,Electronics,1,79.99,Customer 62
+10078,2026-08-12,Laptop Stand,Accessories,1,39.99,Customer 67
+10919,2026-08-12,Monitor,Electronics,1,249.99,Customer 230
+10585,2026-08-13,Desk Lamp,Furniture,1,49.99,Customer 245
+10668,2026-08-13,Standing Desk,Furniture,1,449.99,Customer 107
+10471,2026-08-13,Wireless Mouse,Electronics,4,29.99,Customer 18
+10697,2026-08-13,Laptop,Electronics,1,899.99,Customer 217
+10421,2026-08-13,Desk Lamp,Furniture,1,49.99,Customer 41
+10633,2026-08-13,Wireless Mouse,Electronics,1,29.99,Customer 181
+10520,2026-08-13,Desk Lamp,Furniture,1,49.99,Customer 105
+10307,2026-08-14,Office Chair,Furniture,1,229.99,Customer 70
+10673,2026-08-14,Backpack,Accessories,1,69.99,Customer 63
+10286,2026-08-14,Monitor,Electronics,1,249.99,Customer 175
+10704,2026-08-14,Laptop,Electronics,2,899.99,Customer 138
+10860,2026-08-14,Wireless Mouse,Electronics,1,29.99,Customer 157
+10717,2026-08-14,Wireless Mouse,Electronics,3,29.99,Customer 59
+10794,2026-08-14,Desk Lamp,Furniture,3,49.99,Customer 81
+10962,2026-08-15,Headphones,Electronics,2,79.99,Customer 235
+10571,2026-08-15,Backpack,Accessories,1,69.99,Customer 145
+10703,2026-08-15,Laptop,Electronics,1,899.99,Customer 4
+10531,2026-08-15,Laptop Stand,Accessories,1,39.99,Customer 165
+10044,2026-08-15,Wireless Mouse,Electronics,2,29.99,Customer 33
+10120,2026-08-16,Backpack,Accessories,1,69.99,Customer 241
+10636,2026-08-16,Laptop Stand,Accessories,1,39.99,Customer 84
+10631,2026-08-16,Desk Lamp,Furniture,2,49.99,Customer 212
+10467,2026-08-16,Laptop Stand,Accessories,1,39.99,Customer 132
+10157,2026-08-16,Standing Desk,Furniture,2,449.99,Customer 140
+10812,2026-08-16,Monitor,Electronics,1,249.99,Customer 200
+10235,2026-08-17,Backpack,Accessories,1,69.99,Customer 21
+10914,2026-08-17,Monitor,Electronics,1,249.99,Customer 215
+10337,2026-08-17,Mechanical Keyboard,Electronics,1,89.99,Customer 45
+10168,2026-08-17,Laptop,Electronics,1,899.99,Customer 244
+10280,2026-08-17,Desk Lamp,Furniture,1,49.99,Customer 18
+10071,2026-08-17,Laptop Stand,Accessories,1,39.99,Customer 81
+10816,2026-08-17,Office Chair,Furniture,2,229.99,Customer 11
+10086,2026-08-18,Desk Lamp,Furniture,2,49.99,Customer 157
+10817,2026-08-18,Desk Lamp,Furniture,1,49.99,Customer 109
+10720,2026-08-18,Headphones,Electronics,1,79.99,Customer 9
+10759,2026-08-18,Laptop Stand,Accessories,1,39.99,Customer 197
+10472,2026-08-18,Backpack,Accessories,1,69.99,Customer 130
+10492,2026-08-18,Mechanical Keyboard,Electronics,1,89.99,Customer 27
+10912,2026-08-18,Monitor,Electronics,2,249.99,Customer 63
+10098,2026-08-18,Mechanical Keyboard,Electronics,1,89.99,Customer 95
+10766,2026-08-18,Standing Desk,Furniture,1,449.99,Customer 248
+10462,2026-08-19,Mechanical Keyboard,Electronics,3,89.99,Customer 156
+10045,2026-08-19,Desk Lamp,Furniture,1,49.99,Customer 136
+10814,2026-08-19,Desk Lamp,Furniture,1,49.99,Customer 147
+10561,2026-08-19,Desk Lamp,Furniture,1,49.99,Customer 160
+10063,2026-08-19,Desk Lamp,Furniture,1,49.99,Customer 167
+10635,2026-08-19,Laptop,Electronics,3,899.99,Customer 52
+10518,2026-08-20,Desk Lamp,Furniture,1,49.99,Customer 227
+10096,2026-08-20,Desk Lamp,Furniture,2,49.99,Customer 144
+10741,2026-08-20,Office Chair,Furniture,1,229.99,Customer 154
+10099,2026-08-20,Laptop Stand,Accessories,1,39.99,Customer 33
+10449,2026-08-20,Office Chair,Furniture,3,229.99,Customer 183
+10267,2026-08-20,Office Chair,Furniture,2,229.99,Customer 97
+10902,2026-08-20,Laptop,Electronics,2,899.99,Customer 183
+10334,2026-08-20,Wireless Mouse,Electronics,1,29.99,Customer 56
+10200,2026-08-20,Desk Lamp,Furniture,1,49.99,Customer 109
+10804,2026-08-21,Mechanical Keyboard,Electronics,1,89.99,Customer 74
+10665,2026-08-21,Laptop,Electronics,3,899.99,Customer 226
+10194,2026-08-21,Headphones,Electronics,1,79.99,Customer 243
+10196,2026-08-21,Desk Lamp,Furniture,2,49.99,Customer 177
+10808,2026-08-22,Standing Desk,Furniture,1,449.99,Customer 127
+10545,2026-08-22,Backpack,Accessories,1,69.99,Customer 62
+10672,2026-08-22,Laptop,Electronics,1,899.99,Customer 107
+10142,2026-08-22,Backpack,Accessories,1,69.99,Customer 244
+10361,2026-08-22,Backpack,Accessories,1,69.99,Customer 32
+10786,2026-08-22,Office Chair,Furniture,1,229.99,Customer 119
+10584,2026-08-22,Monitor,Electronics,1,249.99,Customer 170
+10368,2026-08-22,Standing Desk,Furniture,4,449.99,Customer 210
+10710,2026-08-23,Desk Lamp,Furniture,1,49.99,Customer 179
+10813,2026-08-23,Desk Lamp,Furniture,2,49.99,Customer 197
+10373,2026-08-23,Mechanical Keyboard,Electronics,1,89.99,Customer 18
+10716,2026-08-23,Office Chair,Furniture,4,229.99,Customer 250
+10956,2026-08-23,Office Chair,Furniture,1,229.99,Customer 100
+10559,2026-08-24,Laptop,Electronics,1,899.99,Customer 93
+10724,2026-08-24,Monitor,Electronics,2,249.99,Customer 100
+10377,2026-08-24,Office Chair,Furniture,1,229.99,Customer 227
+10127,2026-08-24,Laptop Stand,Accessories,1,39.99,Customer 141
+10617,2026-08-24,Headphones,Electronics,1,79.99,Customer 50
+10190,2026-08-24,Desk Lamp,Furniture,1,49.99,Customer 98
+10874,2026-08-24,Standing Desk,Furniture,1,449.99,Customer 140
+10967,2026-08-24,Office Chair,Furniture,1,229.99,Customer 145
+10744,2026-08-25,Monitor,Electronics,1,249.99,Customer 176
+10269,2026-08-25,Monitor,Electronics,1,249.99,Customer 220
+10055,2026-08-26,Laptop Stand,Accessories,1,39.99,Customer 201
+10994,2026-08-26,Desk Lamp,Furniture,1,49.99,Customer 176
+10155,2026-08-26,Laptop,Electronics,1,899.99,Customer 2
+10240,2026-08-26,Headphones,Electronics,1,79.99,Customer 194
+10576,2026-08-26,Laptop Stand,Accessories,1,39.99,Customer 14
+10756,2026-08-26,Desk Lamp,Furniture,2,49.99,Customer 84
+10662,2026-08-26,Monitor,Electronics,1,249.99,Customer 154
+10841,2026-08-26,Backpack,Accessories,1,69.99,Customer 219
+10791,2026-08-26,Wireless Mouse,Electronics,1,29.99,Customer 224
+10265,2026-08-27,Laptop Stand,Accessories,4,39.99,Customer 126
+10477,2026-08-27,Wireless Mouse,Electronics,2,29.99,Customer 86
+10690,2026-08-27,Laptop Stand,Accessories,2,39.99,Customer 76
+10415,2026-08-27,Desk Lamp,Furniture,1,49.99,Customer 203
+10643,2026-08-27,Monitor,Electronics,1,249.99,Customer 109
+10941,2026-08-28,Wireless Mouse,Electronics,1,29.99,Customer 235
+10027,2026-08-28,Headphones,Electronics,1,79.99,Customer 150
+10765,2026-08-28,Desk Lamp,Furniture,1,49.99,Customer 130
+10678,2026-08-29,Monitor,Electronics,2,249.99,Customer 144
+10976,2026-08-29,Standing Desk,Furniture,1,449.99,Customer 78
+10051,2026-08-29,Monitor,Electronics,1,249.99,Customer 19
+10864,2026-08-29,Wireless Mouse,Electronics,2,29.99,Customer 90
+10205,2026-08-29,Headphones,Electronics,4,79.99,Customer 135
+10178,2026-08-30,Wireless Mouse,Electronics,1,29.99,Customer 161
+10570,2026-08-30,Headphones,Electronics,1,79.99,Customer 213
+10162,2026-08-30,Standing Desk,Furniture,1,449.99,Customer 7
+10411,2026-08-30,Headphones,Electronics,1,79.99,Customer 130
+10966,2026-08-30,Office Chair,Furniture,1,229.99,Customer 180
+10273,2026-08-30,Backpack,Accessories,1,69.99,Customer 26
+10532,2026-08-30,Mechanical Keyboard,Electronics,3,89.99,Customer 40
+10853,2026-08-30,Mechanical Keyboard,Electronics,1,89.99,Customer 175
+10031,2026-08-31,Standing Desk,Furniture,1,449.99,Customer 98
+10825,2026-08-31,Headphones,Electronics,1,79.99,Customer 83
+10555,2026-08-31,Desk Lamp,Furniture,2,49.99,Customer 168
+10749,2026-08-31,Desk Lamp,Furniture,1,49.99,Customer 118
+10658,2026-08-31,Wireless Mouse,Electronics,1,29.99,Customer 154
+10575,2026-08-31,Laptop,Electronics,1,899.99,Customer 248
+10867,2026-09-01,Laptop Stand,Accessories,2,39.99,Customer 73
+10502,2026-09-02,Laptop,Electronics,1,899.99,Customer 116
+10237,2026-09-02,Office Chair,Furniture,1,229.99,Customer 24
+10494,2026-09-02,Desk Lamp,Furniture,2,49.99,Customer 43
+10677,2026-09-02,Laptop Stand,Accessories,1,39.99,Customer 19
+10869,2026-09-03,Backpack,Accessories,1,69.99,Customer 192
+10019,2026-09-03,Wireless Mouse,Electronics,1,29.99,Customer 137
+10129,2026-09-03,Laptop Stand,Accessories,1,39.99,Customer 120
+10299,2026-09-03,Laptop,Electronics,2,899.99,Customer 214
+10370,2026-09-03,Laptop,Electronics,3,899.99,Customer 213
+10135,2026-09-04,Desk Lamp,Furniture,2,49.99,Customer 19
+10588,2026-09-04,Headphones,Electronics,1,79.99,Customer 246
+10442,2026-09-04,Desk Lamp,Furniture,1,49.99,Customer 192
+10618,2026-09-04,Mechanical Keyboard,Electronics,2,89.99,Customer 230
+10143,2026-09-04,Desk Lamp,Furniture,2,49.99,Customer 229
+10318,2026-09-04,Office Chair,Furniture,1,229.99,Customer 17
+10798,2026-09-05,Headphones,Electronics,1,79.99,Customer 173
+10548,2026-09-05,Standing Desk,Furniture,1,449.99,Customer 247
+10496,2026-09-05,Office Chair,Furniture,4,229.99,Customer 71
+10823,2026-09-05,Mechanical Keyboard,Electronics,1,89.99,Customer 53
+10369,2026-09-05,Laptop Stand,Accessories,1,39.99,Customer 143
+10414,2026-09-05,Wireless Mouse,Electronics,1,29.99,Customer 99
+10325,2026-09-05,Desk Lamp,Furniture,1,49.99,Customer 244
+10317,2026-09-06,Laptop,Electronics,2,899.99,Customer 144
+10395,2026-09-06,Mechanical Keyboard,Electronics,1,89.99,Customer 177
+10288,2026-09-06,Standing Desk,Furniture,1,449.99,Customer 128
+10103,2026-09-06,Standing Desk,Furniture,2,449.99,Customer 237
+10171,2026-09-07,Laptop,Electronics,1,899.99,Customer 33
+10161,2026-09-07,Mechanical Keyboard,Electronics,1,89.99,Customer 233
+10122,2026-09-07,Office Chair,Furniture,1,229.99,Customer 218
+10302,2026-09-08,Mechanical Keyboard,Electronics,1,89.99,Customer 161
+10409,2026-09-08,Office Chair,Furniture,1,229.99,Customer 113
+10832,2026-09-08,Headphones,Electronics,1,79.99,Customer 116
+10538,2026-09-08,Desk Lamp,Furniture,1,49.99,Customer 165
+10666,2026-09-08,Mechanical Keyboard,Electronics,1,89.99,Customer 143
+10480,2026-09-09,Desk Lamp,Furniture,1,49.99,Customer 35
+10281,2026-09-09,Monitor,Electronics,1,249.99,Customer 74
+10833,2026-09-10,Wireless Mouse,Electronics,2,29.99,Customer 197
+10730,2026-09-10,Laptop,Electronics,1,899.99,Customer 116
+10350,2026-09-10,Laptop Stand,Accessories,1,39.99,Customer 183
+10374,2026-09-10,Mechanical Keyboard,Electronics,4,89.99,Customer 24
+10474,2026-09-10,Laptop,Electronics,1,899.99,Customer 96
+10301,2026-09-10,Monitor,Electronics,1,249.99,Customer 65
+10038,2026-09-11,Headphones,Electronics,1,79.99,Customer 51
+10293,2026-09-11,Headphones,Electronics,3,79.99,Customer 177
+10978,2026-09-11,Standing Desk,Furniture,3,449.99,Customer 167
+10095,2026-09-11,Mechanical Keyboard,Electronics,4,89.99,Customer 42
+10880,2026-09-11,Wireless Mouse,Electronics,1,29.99,Customer 158
+10524,2026-09-11,Backpack,Accessories,1,69.99,Customer 197
+10872,2026-09-11,Desk Lamp,Furniture,1,49.99,Customer 136
+10768,2026-09-11,Laptop Stand,Accessories,3,39.99,Customer 28
+10465,2026-09-11,Standing Desk,Furniture,2,449.99,Customer 118
+10025,2026-09-12,Standing Desk,Furniture,1,449.99,Customer 68
+10163,2026-09-12,Wireless Mouse,Electronics,1,29.99,Customer 222
+10408,2026-09-12,Laptop Stand,Accessories,1,39.99,Customer 160
+10859,2026-09-12,Mechanical Keyboard,Electronics,4,89.99,Customer 37
+10950,2026-09-13,Monitor,Electronics,1,249.99,Customer 106
+10329,2026-09-13,Backpack,Accessories,1,69.99,Customer 102
+10197,2026-09-13,Desk Lamp,Furniture,2,49.99,Customer 115
+10866,2026-09-13,Headphones,Electronics,1,79.99,Customer 142
+10402,2026-09-13,Office Chair,Furniture,2,229.99,Customer 61
+10186,2026-09-14,Backpack,Accessories,1,69.99,Customer 207
+10505,2026-09-14,Office Chair,Furniture,1,229.99,Customer 246
+10847,2026-09-14,Mechanical Keyboard,Electronics,1,89.99,Customer 224
+10606,2026-09-14,Wireless Mouse,Electronics,1,29.99,Customer 137
+10818,2026-09-15,Wireless Mouse,Electronics,2,29.99,Customer 77
+10486,2026-09-15,Laptop,Electronics,1,899.99,Customer 32
+10712,2026-09-15,Wireless Mouse,Electronics,4,29.99,Customer 167
+10769,2026-09-16,Monitor,Electronics,1,249.99,Customer 43
+10533,2026-09-16,Mechanical Keyboard,Electronics,1,89.99,Customer 231
+10868,2026-09-16,Laptop,Electronics,2,899.99,Customer 53
+10246,2026-09-17,Headphones,Electronics,3,79.99,Customer 209
+10132,2026-09-17,Backpack,Accessories,1,69.99,Customer 86
+10088,2026-09-17,Headphones,Electronics,1,79.99,Customer 225
+10338,2026-09-17,Wireless Mouse,Electronics,2,29.99,Customer 34
+10229,2026-09-17,Laptop Stand,Accessories,2,39.99,Customer 51
+10923,2026-09-17,Standing Desk,Furniture,3,449.99,Customer 61
+10069,2026-09-17,Backpack,Accessories,2,69.99,Customer 40
+10079,2026-09-19,Monitor,Electronics,2,249.99,Customer 62
+10698,2026-09-19,Wireless Mouse,Electronics,1,29.99,Customer 2
+10048,2026-09-19,Standing Desk,Furniture,1,449.99,Customer 113
+10620,2026-09-19,Standing Desk,Furniture,1,449.99,Customer 36
+10172,2026-09-19,Desk Lamp,Furniture,1,49.99,Customer 243
+10898,2026-09-20,Laptop Stand,Accessories,2,39.99,Customer 59
+10238,2026-09-20,Monitor,Electronics,2,249.99,Customer 148
+10641,2026-09-20,Desk Lamp,Furniture,2,49.99,Customer 186
+10058,2026-09-20,Laptop,Electronics,1,899.99,Customer 166
+10314,2026-09-20,Office Chair,Furniture,2,229.99,Customer 68
+10379,2026-09-20,Laptop,Electronics,1,899.99,Customer 114
+10573,2026-09-20,Office Chair,Furniture,1,229.99,Customer 107
+10775,2026-09-21,Desk Lamp,Furniture,1,49.99,Customer 129
+10784,2026-09-21,Wireless Mouse,Electronics,2,29.99,Customer 239
+10827,2026-09-21,Backpack,Accessories,2,69.99,Customer 35
+10311,2026-09-21,Monitor,Electronics,2,249.99,Customer 102
+10126,2026-09-21,Standing Desk,Furniture,2,449.99,Customer 45
+10512,2026-09-22,Wireless Mouse,Electronics,3,29.99,Customer 82
+10602,2026-09-22,Wireless Mouse,Electronics,2,29.99,Customer 2
+10809,2026-09-23,Standing Desk,Furniture,1,449.99,Customer 182
+10358,2026-09-23,Mechanical Keyboard,Electronics,3,89.99,Customer 18
+10479,2026-09-23,Mechanical Keyboard,Electronics,1,89.99,Customer 179
+10940,2026-09-23,Office Chair,Furniture,1,229.99,Customer 166
+10047,2026-09-24,Backpack,Accessories,1,69.99,Customer 80
+10726,2026-09-24,Mechanical Keyboard,Electronics,2,89.99,Customer 129
+10627,2026-09-24,Headphones,Electronics,1,79.99,Customer 235
+10803,2026-09-25,Backpack,Accessories,3,69.99,Customer 239
+10990,2026-09-25,Monitor,Electronics,1,249.99,Customer 66
+10151,2026-09-25,Standing Desk,Furniture,1,449.99,Customer 55
+10489,2026-09-25,Desk Lamp,Furniture,1,49.99,Customer 237
+10718,2026-09-25,Monitor,Electronics,2,249.99,Customer 122
+10459,2026-09-26,Desk Lamp,Furniture,2,49.99,Customer 195
+10137,2026-09-26,Monitor,Electronics,1,249.99,Customer 103
+10210,2026-09-26,Headphones,Electronics,3,79.99,Customer 164
+10925,2026-09-27,Standing Desk,Furniture,2,449.99,Customer 84
+10767,2026-09-27,Office Chair,Furniture,2,229.99,Customer 138
+10227,2026-09-27,Headphones,Electronics,2,79.99,Customer 19
+10353,2026-09-27,Wireless Mouse,Electronics,1,29.99,Customer 168
+10018,2026-09-27,Headphones,Electronics,3,79.99,Customer 166
+10234,2026-09-27,Headphones,Electronics,1,79.99,Customer 70
+10319,2026-09-27,Desk Lamp,Furniture,1,49.99,Customer 105
+10644,2026-09-27,Office Chair,Furniture,1,229.99,Customer 16
+10829,2026-09-27,Mechanical Keyboard,Electronics,2,89.99,Customer 64
+11000,2026-09-28,Desk Lamp,Furniture,1,49.99,Customer 242
+10932,2026-09-28,Headphones,Electronics,1,79.99,Customer 11
+10790,2026-09-28,Laptop,Electronics,1,899.99,Customer 72
+10259,2026-09-28,Backpack,Accessories,1,69.99,Customer 214
+10185,2026-09-29,Desk Lamp,Furniture,1,49.99,Customer 46
+10700,2026-09-29,Wireless Mouse,Electronics,1,29.99,Customer 56
+10513,2026-09-29,Office Chair,Furniture,1,229.99,Customer 139
+10671,2026-09-29,Headphones,Electronics,1,79.99,Customer 119
+10393,2026-09-29,Standing Desk,Furniture,1,449.99,Customer 75
+10988,2026-09-29,Wireless Mouse,Electronics,1,29.99,Customer 187
+10822,2026-09-29,Office Chair,Furniture,1,229.99,Customer 110
+10830,2026-09-30,Mechanical Keyboard,Electronics,1,89.99,Customer 64
+10419,2026-09-30,Office Chair,Furniture,1,229.99,Customer 166
+10894,2026-09-30,Headphones,Electronics,4,79.99,Customer 161
+10918,2026-09-30,Mechanical Keyboard,Electronics,1,89.99,Customer 12
+10734,2026-09-30,Monitor,Electronics,1,249.99,Customer 69
+10457,2026-09-30,Wireless Mouse,Electronics,1,29.99,Customer 203
