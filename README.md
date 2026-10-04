@@ -1,4 +1,6 @@
-# Automated E-Commerce Sales Reporting System
+# End-to-End E-Commerce Sales Reporting Pipeline & Power BI Dashboard
+
+![E-Commerce Sales Performance Dashboard](screenshots/dashboard.png)
 
 An automated sales reporting workflow that transforms raw CSV sales data into cleaned, validated business data and an interactive Power BI dashboard.
 
@@ -6,22 +8,33 @@ The project demonstrates how repetitive sales reporting can be streamlined using
 
 ## Business Problem
 
-Small e-commerce businesses often export sales data to Excel or CSV and manually clean, calculate, and prepare reports each week or month.
+E-commerce businesses often rely on recurring Excel or CSV exports to monitor sales performance. Preparing these reports manually requires repetitive data cleaning, validation, KPI calculations, and dashboard updates.
 
-This workflow reduces that repetitive work by automating the data-processing stage and providing a reusable dashboard for business analysis.
+This project demonstrates how that reporting workflow can be standardized and automated using Python and Power BI.
+
+## Business Value
+
+The workflow replaces repetitive manual data preparation with a reusable reporting pipeline that:
+
+- Validates incoming sales data before processing
+- Detects missing fields and invalid numeric values
+- Removes duplicate records
+- Standardizes dates, products, categories, and customer data
+- Automatically calculates revenue and core sales KPIs
+- Generates standardized reporting outputs
+- Feeds an interactive Power BI dashboard
+- Allows the same dashboard to be refreshed when new processed data becomes available
 
 ## Solution
-
-The system processes sales data through the following workflow:
 
 ```text
 Raw CSV / Excel Export
         ↓
-Data Ingestion
+Python Data Ingestion
         ↓
-Data Validation
+Validation
         ↓
-Data Cleaning
+Cleaning & Standardization
         ↓
 KPI & Revenue Calculation
         ↓
@@ -43,11 +56,8 @@ The Power BI dashboard provides visibility into:
 - Sales Revenue Trends
 - Interactive Date Filtering
 
-### Dashboard Preview
-
-![E-Commerce Sales Performance Dashboard](screenshots/dashboard.png)
-
 ## Technologies
+
 - Python
 - pandas
 - Power BI
@@ -75,6 +85,9 @@ automated-sales-reporting/
 │   ├── metrics.py
 │   ├── output.py
 │   └── main.py
+│
+├── screenshots/
+│   └── dashboard.png
 │
 ├── generate_demo_data.py
 └── README.md
