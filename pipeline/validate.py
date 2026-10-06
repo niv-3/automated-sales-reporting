@@ -48,7 +48,5 @@ def validate_sales_data(data):
             )
 
 
-    print("data validation passed")
-
     return True
 

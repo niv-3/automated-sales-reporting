@@ -10,8 +10,6 @@ def calculate_metrics(data):
         .sum()
         .sort_values(ascending=False)
     )
-    print("\nRevenue by Product:")
-    print(revenue_by_product)
 
     total_revenue = data["revenue"].sum()
     total_orders = data["order_id"].nunique()
