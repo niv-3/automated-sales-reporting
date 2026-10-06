@@ -1,4 +1,4 @@
-#A dynamic sales analytics and reporting application built with Python, pandas, and Streamlit.
+# A dynamic sales analytics and reporting application built with Python, pandas, and Streamlit.
 
 The application allows businesses to upload a sales CSV, map their own column names to a standard sales structure, automatically validate and clean the data, calculate business KPIs, visualize sales performance, and download processed results.
 
