@@ -6,7 +6,7 @@ The application allows businesses to upload a sales CSV, map their own column na
 
 Try the deployed application:
 
-[**Open Automated Sales Analytics**](https://automated-sales-reporting-c67g8dsprdcygxsjqcpswh.streamlit.app/)
+[**Open Automated Sales Analytics**](https://automated-sales-analytics.streamlit.app/)
 
 Upload a sales CSV, map your columns, run the analysis, explore the KPIs and charts, and download the processed results.
 
