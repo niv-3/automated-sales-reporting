@@ -1,5 +1,13 @@
 # Automated Sales Analytics
 
+## 🚀 Live Demo
+
+Try the deployed application:
+
+**[Open Automated Sales Analytics](https://automated-sales-reporting-c67g8dsprdcygxsjqcpswh.streamlit.app/)**
+
+Upload a sales CSV, map your columns, run the analysis, explore the KPIs and charts, and download the processed results.
+
 A dynamic sales analytics and reporting application built with Python, pandas, and Streamlit.
 
 The application allows businesses to upload a sales CSV, map their own column names to a standard sales structure, automatically validate and clean the data, calculate business KPIs, visualize sales performance, and download processed results.
